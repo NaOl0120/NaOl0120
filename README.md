@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and mostly cybersecurity.
 - 🌱 I’m currently studying Computer Science (BSc) part-time. 
 - 💞️ I’m looking to collaborate on Cybersecurity awareness, ethical hacking, and Python projects related to security.
-- 📫 How to reach me tibor.szollosi82@gmail.com, LinkedIn: Tibor Szollosi
+- 📫 How to reach me tibor.szollosi82@gmail.com, LinkedIn: https://www.linkedin.com/in/tibor-szollosi-b29050330
 - ⚡ Fun fact:  I can study cybersecurity on my phone while commuting, working full-time, and being a parent—multitasking level 100! 😎🚀
 
 <!---
